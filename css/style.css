@@ -181,16 +181,16 @@ img {
 }
 
 .notavif.notwebp .sobre-tech {
-    background-image: linear-gradient(to bottom, transparent 50%, var(--primario) 0%), url(../Img/imagen-mujer.jpg);
+    background-image: linear-gradient(to bottom, transparent 50%, var(--primario) 0%), url(../img/imagen-mujer.jpg);
 }
 
 .webp .sobre-tech {
-    background-image: linear-gradient(to bottom, transparent 50%, var(--primario) 0%), url(../Img/imagen-mujer.webp);
+    background-image: linear-gradient(to bottom, transparent 50%, var(--primario) 0%), url(../img/imagen-mujer.webp);
 
 }
 
 .avif .sobre-tech {
-    background-image: linear-gradient(to bottom, transparent 50%, var(--primario) 0%), url(../Img/imagen-mujer.avif);
+    background-image: linear-gradient(to bottom, transparent 50%, var(--primario) 0%), url(../img/imagen-mujer.avif);
 
 }
 
@@ -333,17 +333,17 @@ img {
 }
 
 .modelo-x {
-    background-image: url(/Img/modelo-x.svg);
+    background-image: url(../img/modelo-x.svg);
 
 }
 
 .modelo-y {
-    background-image: url(/Img/modelo-y.svg);
+    background-image: url(../img/modelo-y.svg);
 
 }
 
 .modelo-z {
-    background-image: url(/Img/modelo-z.svg);
+    background-image: url(../img/modelo-z.svg);
     background-color: var(--primario);
     color: var(--blanco);
 }
@@ -379,17 +379,17 @@ img {
 
 .notavif.notwebp .newsletter{
     background-image: linear-gradient(to bottom,transparent 50%, var(--blanco) 0%), 
-    url(../Img/newsletter.jpg);
+    url(../img/newsletter.jpg);
 }
 
 .webp .newsletter{
     background-image: linear-gradient(to bottom,transparent 50%, var(--blanco) 0%), 
-    url(../Img/newsletter.webp);
+    url(../img/newsletter.webp);
 }
 
 .avif .newsletter{
     background-image: linear-gradient(to bottom,transparent 50%, var(--blanco) 0%), 
-    url(../Img/newsletter.avif);
+    url(../img/newsletter.avif);
 }
 
 @media (min-width:768px) {
@@ -402,17 +402,17 @@ img {
 
     .notavif.notwebp .newsletter{
         background-image: linear-gradient(to right,transparent 50%, var(--blanco) 0%), 
-        url(../Img/newsletter.jpg);
+        url(../img/newsletter.jpg);
     }
     
     .webp .newsletter{
         background-image: linear-gradient(to right,transparent 50%, var(--blanco) 0%), 
-        url(../Img/newsletter.webp);
+        url(../img/newsletter.webp);
     }
     
     .avif .newsletter{
         background-image: linear-gradient(to right,transparent 50%, var(--blanco) 0%), 
-        url(../Img/newsletter.avif);
+        url(../img/newsletter.avif);
     }
 }
 
